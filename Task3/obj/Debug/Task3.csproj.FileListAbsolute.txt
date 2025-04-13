@@ -1,0 +1,7 @@
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\bin\Debug\jack_game.exe.config
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\bin\Debug\jack_game.exe
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\bin\Debug\jack_game.pdb
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\obj\Debug\jack_game.exe
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\obj\Debug\jack_game.pdb

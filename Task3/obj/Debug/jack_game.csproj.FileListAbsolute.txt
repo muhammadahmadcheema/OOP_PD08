@@ -1,0 +1,14 @@
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\bin\Debug\jack_game.exe.config
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\bin\Debug\jack_game.exe
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\bin\Debug\jack_game.pdb
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\obj\Debug\jack_game.csproj.AssemblyReference.cache
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\obj\Debug\jack_game.csproj.CoreCompileInputs.cache
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\obj\Debug\jack_game.exe
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\obj\Debug\jack_game.pdb
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\bin\Debug\jack_game.exe.config
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\bin\Debug\jack_game.exe
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\bin\Debug\jack_game.pdb
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\obj\Debug\jack_game.csproj.AssemblyReference.cache
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\obj\Debug\jack_game.csproj.CoreCompileInputs.cache
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\obj\Debug\jack_game.exe
+D:\Second Semester\OOP\OOP MANUAL\PD8\Task3\obj\Debug\jack_game.pdb
