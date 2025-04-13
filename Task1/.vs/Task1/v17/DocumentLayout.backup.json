@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Second Semester\\OOP\\OOP MANUAL\\PD8\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07FB87DF-1729-4B65-9E5C-43198278142A}|Task1\\Task1.csproj|d:\\second semester\\oop\\oop manual\\pd8\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FB87DF-1729-4B65-9E5C-43198278142A}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FB87DF-1729-4B65-9E5C-43198278142A}|Task1\\Task1.csproj|d:\\second semester\\oop\\oop manual\\pd8\\task1\\task1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FB87DF-1729-4B65-9E5C-43198278142A}|Task1\\Task1.csproj|solutionrelative:task1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FB87DF-1729-4B65-9E5C-43198278142A}|Task1\\Task1.csproj|d:\\second semester\\oop\\oop manual\\pd8\\task1\\task1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FB87DF-1729-4B65-9E5C-43198278142A}|Task1\\Task1.csproj|solutionrelative:task1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FB87DF-1729-4B65-9E5C-43198278142A}|Task1\\Task1.csproj|d:\\second semester\\oop\\oop manual\\pd8\\task1\\task1\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FB87DF-1729-4B65-9E5C-43198278142A}|Task1\\Task1.csproj|solutionrelative:task1\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\Second Semester\\OOP\\OOP MANUAL\\PD8\\Task1\\Task1\\Staff.cs",
+              "RelativeDocumentMoniker": "Task1\\Staff.cs",
+              "ToolTip": "D:\\Second Semester\\OOP\\OOP MANUAL\\PD8\\Task1\\Task1\\Staff.cs",
+              "RelativeToolTip": "Task1\\Staff.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:39:52.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Second Semester\\OOP\\OOP MANUAL\\PD8\\Task1\\Task1\\Person.cs",
+              "RelativeDocumentMoniker": "Task1\\Person.cs",
+              "ToolTip": "D:\\Second Semester\\OOP\\OOP MANUAL\\PD8\\Task1\\Task1\\Person.cs",
+              "RelativeToolTip": "Task1\\Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:39:30.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Second Semester\\OOP\\OOP MANUAL\\PD8\\Task1\\Task1\\Student.cs",
+              "RelativeDocumentMoniker": "Task1\\Student.cs",
+              "ToolTip": "D:\\Second Semester\\OOP\\OOP MANUAL\\PD8\\Task1\\Task1\\Student.cs",
+              "RelativeToolTip": "Task1\\Student.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:39:16.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Second Semester\\OOP\\OOP MANUAL\\PD8\\Task1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\Second Semester\\OOP\\OOP MANUAL\\PD8\\Task1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:38:45.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
